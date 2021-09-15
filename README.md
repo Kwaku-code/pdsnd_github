@@ -8,6 +8,8 @@ This project and README file were created on 15 September, 2021
 ### Project Title
 Replace the Project Title
 
+This project is titled Kwaku's Final Project
+
 ### Description
 Describe what your project is about and what it does
 
