@@ -27,3 +27,6 @@ Files used include:
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+This project is inspired by the content of the following repository:
+
+-https://github.com/udacity/pdsnd_github
