@@ -11,10 +11,14 @@ This project is about updating a README.md file
 
 ### Files used
 Files used include:
-*Explore_bikeshare_data.ipynb
-*chicago.csv
-*new_york_city.csv
-*washington.csv
+
+- Explore_bikeshare_data.ipynb
+
+- chicago.csv
+
+- new_york_city.csv
+
+- washington.csv
 
 ### Credits
 This project is inspired by the content of the following repository:
