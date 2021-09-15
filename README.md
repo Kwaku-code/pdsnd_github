@@ -18,6 +18,12 @@ This project is about updating a README.md file
 ### Files used
 Include the files used
 
+Files used include:
+*Explore_bikeshare_data.ipynb
+*chicago.csv
+*new_york_city.csv
+*washington.csv
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
